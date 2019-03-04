@@ -12,6 +12,9 @@ from some initial set.
 To produce the trajectories run the script : 'simulate_with_NN.m' inside each folder.
 The details of the ODE model can be found inside : 'system_eq_dis.m'
 
+__FOR_ARCH_2019__ Please consider benchmarks 7,9,10 .
+
+
 For verification purpose, we wish to compute reach sets over some bounded
 horizon. The initial sets, and the bounded time horizon can be found in the files
 './Benchmarks/Ex_XXX/simulate_with_NN.m'

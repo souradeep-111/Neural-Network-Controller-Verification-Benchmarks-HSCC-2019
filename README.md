@@ -1,4 +1,5 @@
 Author : Souradeep Dutta
+
 Contact: souradeep.dutta@colorado.edu
 
 This directory contains some sample Benchmarks Systems for the ARCH 2019 AI Model

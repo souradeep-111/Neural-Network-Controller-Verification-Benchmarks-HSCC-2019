@@ -28,3 +28,13 @@ Cite the following paper if you use these benchmarks :
 Reachability Analysis for Neural Feedback Systems using Regressive Polynomial Rule Inference,
 by Souradeep Dutta, Xin Chen and Sriram Sankaranarayanan
 HSCC 2019, Montreal, Canada
+
+Bibtex:
+
+@inproceedings{Dutta_Others__2019__Reachability,
+author = { Souradeep Dutta and Xin Chen and Sriram Sankaranarayanan },
+title = { Reachability Analysis for Neural Feedback Systems using Regressive Polynomial Rule Inference },
+booktitle = { Hybrid Systems: Computation and Control (HSCC) },
+year = { 2019 },
+pages = { TBA },
+publisher = { ACM Press }}
